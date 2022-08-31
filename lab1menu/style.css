@@ -1,0 +1,18 @@
+.title{
+    text-align:center;
+}
+.button{
+  
+    text-align:center;
+}
+.foodlist{
+    text-align:left;
+}
+
+.nav {
+    text-align: center;
+}
+ 
+.nav ul {
+    display: inline-block;
+}

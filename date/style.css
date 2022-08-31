@@ -1,0 +1,13 @@
+
+
+  td{
+    border-bottom: solid 2px brown;
+  }
+  th{
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align:center;
+  }
+  tr{
+    text-align:left;
+  }
